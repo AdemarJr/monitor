@@ -1,0 +1,7 @@
+application/config/*
+application/logs/*
+application/sessions/*
+application/config/database.php
+application/third_party/mpdf-3/classes/otl.php
+index.php
+.env
